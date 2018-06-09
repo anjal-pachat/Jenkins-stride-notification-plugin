@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: Stride_Notification
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-06/08/2018 16:31-anjal)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: E:\Stride_Notification\src\main\resources,E:\Stride_Notific
+ ation\target\classes
+Resource-Path: E:\Stride_Notification\src\main\webapp
+

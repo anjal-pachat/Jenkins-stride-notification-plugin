@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: anjal
+Created-By: Apache Maven
+Build-Jdk: 1.8.0
+Extension-Name: Stride_Notification
+Specification-Title: TODO
+Implementation-Title: Stride_Notification
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: Stride_Notification
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-06/08/2018 16:30-anjal)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+
