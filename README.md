@@ -10,7 +10,7 @@ Can send notifications for the following build statuses
 -	Build Duration
 -	Job Name
 ## Configuration
-The plugin allows only a single level of configuration is listed below 
+The plugin allows only a single level of configuration which is listed below 
 ### Job level configuration
 To set up the plugin for an individual job, go to the job's configuration page and add the **Stride Notifications** post-build action. The settings listed there are:
 -	**Access Token:** It is the unique token for specific stride chat room where the notification message intend to send .Just copy it and paste it here .
